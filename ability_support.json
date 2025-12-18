@@ -2184,7 +2184,8 @@
     "hostile"
   ],
   "net.minecraft.entity.passive.EntitySquid": [
-    "swim|false,1.2F,0.4F,true"
+    "swim|false,1.2F,0.4F,true",
+    "fly|true"
   ],
   "net.minecraft.entity.monster.EntityGuardian": [
     "swim|false,4F,1F,true",
